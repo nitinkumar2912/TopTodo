@@ -2,7 +2,7 @@
 
 A simple, fast, and interactive Todo List application built with Vanilla JavaScript and modern tooling.
 
-🔗 **[Live Preview](https://nitin.github.io/TopTodo/)**
+🔗 **[Live Preview](https://nitinkumar2912.github.io/TopTodo/)**
 
 ## 🛠️ Built With
 * HTML, CSS, and Vanilla JavaScript
