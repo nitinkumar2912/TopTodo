@@ -25,7 +25,7 @@ If you want to download and run this project on your own machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nitin/TopTodo.git
+   git clone https://github.com/nitinkumar2912/TopTodo.git
    ```
 2. Install the dependencies:
     ```bash
